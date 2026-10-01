@@ -12,3 +12,6 @@ The running application should be verified using an HTTP request to port 8000.
 
 ## Testing
 Nothing to test on v1 or v2
+
+## System
+Utilizing Docker images and Github. Ensure that docker build and docker run are used to correctly deploy the image.
